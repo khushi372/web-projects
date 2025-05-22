@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+    color: gray;
+    text-align: center;
+    font-size: 50px;
+}
+.slider-container{
+    display: flex;
+    justify-content: space-around;
+}
+.slider{
+    align-items: center;
+    text-align: center;
+}
+.btn{
+    margin-bottom: 250px;
+    border: 2px solid gray;
+    background-color: white;
+    border-radius: 10px;
+}
